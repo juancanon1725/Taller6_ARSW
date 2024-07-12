@@ -61,7 +61,7 @@ Para ejecutar el proyecto utilizamos los comandos:
  npm start
 ```
 
-![tableroreact](https://github.com/user-attachments/assets/8132922d-4b0f-4949-a2d1-53129125fbcd)
+![tableroreact](https://github.com/user-attachments/assets/4f31b167-08df-460d-966c-d4262238f600)
 
 ## License
 
