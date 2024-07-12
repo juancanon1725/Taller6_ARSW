@@ -45,7 +45,7 @@ Para ejecutar el proyecto utilizamos los comandos:
 Nos dirijimos al directorio del frontend
 
 ```
-cd Llb6-frontend
+cd lab6-frontend
 ```
 
 Para instalar el proyecto se debe usar:
